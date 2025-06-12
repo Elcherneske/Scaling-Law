@@ -1,2 +1,2 @@
-# 复现论文结果见MultiPowerLaw和Scaling_Law，使用warmup以及initial damping的结果见warmup_initial文件中的test_with/without_I.ipynb
-.
+# Scaling-Law.
+复现论文结果见MultiPowerLaw和Scaling_Law，使用warmup以及initial damping的结果见warmup_initial文件中的test_with/without_I.ipynb
